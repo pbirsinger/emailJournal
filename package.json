@@ -1,0 +1,19 @@
+{
+  "name": "emailJournal",
+  "version": "1.0.0",
+  "description": "Online journal that stores entries via email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbirsinger/emailJournal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbirsinger/emailJournal/issues"
+  },
+  "homepage": "https://github.com/pbirsinger/emailJournal"
+}
